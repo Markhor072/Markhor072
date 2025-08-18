@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  📫 Reach me at: <a href="mailto:your-email@gmail.com">your-email@gmail.com</a>
+  📫 Reach me at: <a href="shahidhassankhokhar@gmail.com">your-email@gmail.com</a>
 </p>
 
 ---
@@ -37,9 +37,6 @@
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://instagram.com/your-instagram" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </div>
 
 ---
