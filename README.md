@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  📫 Reach me at: <a href="shahidhassankhokhar@gmail.com">shahidhassankhokhar@gmail.com</a>
+  📫 Reach me at: <a href="mailto:your-email@gmail.com">shahidhassankhokhar@gmail.com</a>
 </p>
 
 ---
