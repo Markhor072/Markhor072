@@ -36,9 +36,7 @@
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+
   <a href="https://instagram.com/your-instagram" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -48,7 +46,7 @@
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,matlab,tensorflow,pytorch,sklearn,anaconda,mysql,postgresql,cpp,git,github,gitlab,docker,fastapi,firebase,vercel,vscode,linux,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,matlab,tensorflow,pytorch,sklearn,anaconda,mysql,postgresql,git,github,gitlab,firebase,vscode,raspberrypi)](https://skillicons.dev)
 
 ---
 
