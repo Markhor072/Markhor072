@@ -1,4 +1,4 @@
-![Banner](assets/"C:\Users\shahi\Downloads\Black and Red Gradient Professional LinkedIn Banner.png")
+![Banner](assets/Banner.png")
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Markhor072&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
