@@ -1,4 +1,4 @@
-![Banner](https://github.com/Markhor072/Markhor072/blob/main/banner.png)
+![Banner](https://drive.google.com/file/d/1MlMtyx1POXaV1CFagudqASw2xSG7772p/view?usp=sharing)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Markhor072&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
