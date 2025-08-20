@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Markhor072/Markhor072/main/banner.png)
+![Banner](https://raw.githubusercontent.com/Markhor072/Markhor072.Readme/main/banner.png)
 
 
 <p align="left">
