@@ -1,4 +1,5 @@
-![Banner](assets/Banner.png")
+![Banner](https://raw.githubusercontent.com/Markhor072/Markhor072/main/banner.png)
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Markhor072&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
