@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/1MlMtyx1POXaV1CFagudqASw2xSG7772p/view?usp=sharing)
+![Banner](assets/"C:\Users\shahi\Downloads\Black and Red Gradient Professional LinkedIn Banner.png")
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Markhor072&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
